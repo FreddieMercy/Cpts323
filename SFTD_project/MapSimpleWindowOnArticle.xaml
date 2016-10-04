@@ -1,0 +1,47 @@
+﻿<Window x:Class="SFTD_project.MapSimpleWindowOnArticle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:SFTD_project"
+    xmlns:logic="clr-namespace:MapRSS_LogicEngine;assembly=MapRSS_LogicEngine"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib" 
+
+        Title="MapSimpleWindowOnArticle" Height="493" Width="690">
+    <Grid>
+
+
+        <TabControl x:Name="SimpleGrid" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" SelectedIndex="0">
+            <TabControl.ItemTemplate>
+                <DataTemplate DataType="{x:Type logic:Article}">
+                    <TextBlock Text="{Binding Path=Title}" Width="100"/>
+                    
+                </DataTemplate>
+            </TabControl.ItemTemplate>
+            <TabControl.ContentTemplate>
+                <HierarchicalDataTemplate DataType="{x:Type logic:Article}">
+
+                        <Grid HorizontalAlignment="Left" Margin="10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition MinHeight="100">
+                            </RowDefinition>
+                            <RowDefinition MinHeight="100">
+                            </RowDefinition>
+                            <RowDefinition MinHeight="100">
+                            </RowDefinition>
+                        </Grid.RowDefinitions>
+                            
+                        <TextBlock Text="{Binding Path=Title}" HorizontalAlignment="Left" Grid.Row="0" FontSize="48" FontStyle="Italic" FontWeight="Bold"/>
+                            
+                        <TextBlock Text="{Binding Path=Summary}" HorizontalAlignment="Left" Grid.Row="1" FontSize="24" TextWrapping="WrapWithOverflow"/>
+
+                        <TextBlock Grid.Row="2">
+                            <Hyperlink NavigateUri="{Binding Path=Link}" Click="Link_Click"> <TextBlock Text="Read More" FontSize="36"/></Hyperlink>
+                        </TextBlock>
+                            
+                    </Grid>
+      
+                </HierarchicalDataTemplate>
+            </TabControl.ContentTemplate>
+
+        </TabControl>
+    </Grid>
+</Window>

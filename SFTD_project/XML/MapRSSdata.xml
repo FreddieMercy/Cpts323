@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MapRSS>
+	<root>
+		<name>Reuters</name>
+		<name>NYTimes</name>
+	</root>
+	<channels>
+		<channel>
+			<root_name>Reuters</root_name>
+			<name>News</name>
+		</channel>
+		<channel>
+			<root_name>Reuters</root_name>
+			<name>Markets</name>
+		</channel>
+		<channel>
+			<root_name>Reuters</root_name>
+			<name>Sectors</name>
+		</channel>
+		<channel>
+			<root_name>News</root_name>
+			<name>Sport</name>
+		</channel>
+	</channels>
+	<feeds>
+		<feed name="Reuters: Arts">
+			<channel_name>News</channel_name>
+			<URL>http://feeds.reuters.com/news/artsculture</URL>
+			<update>20</update>
+		</feed>
+		<feed name="Reuters: Business News">
+			<channel_name>News</channel_name>
+			<URL>http://feeds.reuters.com/reuters/businessNews</URL>
+			<update>20</update>
+		</feed>
+		<feed name="Reuters: Politics">
+			<channel_name>News</channel_name>
+			<URL>http://feeds.reuters.com/Reuters/PoliticsNews</URL>
+			<update>20</update>
+		</feed>
+		<feed name="Reuters: Economic News">
+			<channel_name>Markets</channel_name>
+			<URL>http://feeds.reuters.com/news/economy</URL>
+			<update>20</update>
+		</feed>
+		<feed name="Reuters: Global Markets">
+			<channel_name>Markets</channel_name>
+			<URL>http://feeds.reuters.com/reuters/globalmarketsNews</URL>
+			<update>20</update>
+		</feed>
+		<feed name="Reuters: US Dollar Report">
+			<channel_name>Markets</channel_name>
+			<URL>http://feeds.reuters.com/reuters/USdollarreportNews</URL>
+			<update>20</update>
+		</feed>
+		<feed name="Reuters: Healthcare">
+			<channel_name>Sectors</channel_name>
+			<URL>http://feeds.reuters.com/reuters/UShealthcareNews</URL>
+			<update>20</update>
+		</feed>
+		<feed name="Reuters: Technology">
+			<channel_name>Sectors</channel_name>
+			<URL>http://feeds.reuters.com/reuters/technologysectorNews</URL>
+			<update>20</update>
+		</feed>
+		<feed name="NYT &gt; Business Day">
+			<channel_name>NYTimes</channel_name>
+			<URL>http://rss.nytimes.com/services/xml/rss/nyt/Business.xml</URL>
+			<update>20</update>
+		</feed>
+		<feed name="NYT &gt; Education">
+			<channel_name>NYTimes</channel_name>
+			<URL>http://rss.nytimes.com/services/xml/rss/nyt/Education.xml</URL>
+			<update>20</update>
+		</feed>
+		<feed name="NYT &gt; World">
+			<channel_name>NYTimes</channel_name>
+			<URL>http://rss.nytimes.com/services/xml/rss/nyt/World.xml</URL>
+			<update>20</update>
+		</feed>
+		<feed name="ART">
+			<channel_name>null</channel_name>
+			<URL>http://feeds.reuters.com/news/artsculture</URL>
+			<update>10</update>
+		</feed>
+		<feed name="Reuters: Sport">
+			<channel_name>Sport</channel_name>
+			<URL>  http://feeds.reuters.com/reuters/sportsNews</URL>
+			<update>20</update>
+		</feed>
+		<feed name="Chicago">
+			<channel_name>null</channel_name>
+			<URL>http://feeds.chicagotribune.com/chicagotribune/news/local/</URL>
+			<update>20</update>
+		</feed>
+		<feed name="New Subsription Name Here">
+			<channel_name>null</channel_name>
+			<URL>http://rss.nytimes.com/services/xml/rss/nyt/World.xml</URL>
+			<update>20</update>
+		</feed>
+		<feed name="CNN">
+			<channel_name>null</channel_name>
+			<URL>http://rss.cnn.com/rss/cnn_topstories.rss</URL>
+			<update>20</update>
+		</feed>
+	</feeds>
+</MapRSS>

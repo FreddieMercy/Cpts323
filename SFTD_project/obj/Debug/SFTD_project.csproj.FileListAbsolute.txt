@@ -1,0 +1,221 @@
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\bin\Debug\SFTD_project.exe.config
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\bin\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\bin\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\SFTD_project.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\MainWindow.baml
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\MainWindow.g.cs
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\App.g.cs
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\SFTD_project.g.resources
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\SFTD_project.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\SFTD_project.csproj.GenerateResource.Cache
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\Documents\Visual Studio 2013\Projects\Cpts323\SFTD_project\SFTD_project\obj\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\SFTD_project.exe.config
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\MainWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\MainWindow.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\App.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.cache
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.g.resources
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\SFTD_project.exe.config
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SFTD_project.exe
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SFTD_project.pdb
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SFTD_project.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\MainWindow.baml
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\MainWindow.g.cs
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\App.g.cs
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.cache
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SFTD_project.g.resources
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SFTD_project.Properties.Resources.resources
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SFTD_project.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\SFTD_project.exe
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\SFTD_project.pdb
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\ChannelWindow.baml
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SubscriptionWindow.baml
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\ChannelWindow.g.cs
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SubscriptionWindow.g.cs
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\ManageFeeds.g.cs
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.lref
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\ManageFeeds.baml
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\bin\Debug\SFTD_project.exe
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SFTD_project.csprojResolveAssemblyReference.cache
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\ChannelWindow.baml
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SubscriptionWindow.baml
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\ChannelWindow.g.cs
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SubscriptionWindow.g.cs
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\MainWindow.g.cs
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\ManageFeeds.g.cs
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\App.g.cs
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.cache
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.lref
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\MainWindow.baml
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\ManageFeeds.baml
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SFTD_project.g.resources
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SFTD_project.Properties.Resources.resources
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SFTD_project.csproj.GenerateResource.Cache
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SFTD_project.exe
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\obj\Debug\SFTD_project.pdb
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\bin\Debug\SFTD_project.exe.config
+C:\Users\燕子\WSU2015下\CptS323\HW\Team13\SFTD_project\bin\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\ChannelWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SubscriptionWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\ChannelWindow.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SubscriptionWindow.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\ManageFeeds.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.lref
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\obj\Debug\ManageFeeds.baml
+E:\Team13\SFTD_project\bin\Debug\SFTD_project.exe.config
+E:\Team13\SFTD_project\obj\Debug\SFTD_project.exe
+E:\Team13\SFTD_project\obj\Debug\SFTD_project.pdb
+E:\Team13\SFTD_project\bin\Debug\SFTD_project.exe
+E:\Team13\SFTD_project\bin\Debug\SFTD_project.pdb
+E:\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.dll
+E:\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.pdb
+E:\Team13\SFTD_project\obj\Debug\SFTD_project.csprojResolveAssemblyReference.cache
+E:\Team13\SFTD_project\obj\Debug\ChannelWindow.baml
+E:\Team13\SFTD_project\obj\Debug\SubscriptionWindow.baml
+E:\Team13\SFTD_project\obj\Debug\ChannelWindow.g.cs
+E:\Team13\SFTD_project\obj\Debug\SubscriptionWindow.g.cs
+E:\Team13\SFTD_project\obj\Debug\MainWindow.g.cs
+E:\Team13\SFTD_project\obj\Debug\ManageFeeds.g.cs
+E:\Team13\SFTD_project\obj\Debug\App.g.cs
+E:\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.cache
+E:\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.lref
+E:\Team13\SFTD_project\obj\Debug\MainWindow.baml
+E:\Team13\SFTD_project\obj\Debug\ManageFeeds.baml
+E:\Team13\SFTD_project\obj\Debug\SFTD_project.g.resources
+E:\Team13\SFTD_project\obj\Debug\SFTD_project.Properties.Resources.resources
+E:\Team13\SFTD_project\obj\Debug\SFTD_project.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\System.Windows.Browser.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\System.Windows.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\System.Net.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\SFTD_project.exe.config
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\System.Windows.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\System.Net.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\ChannelWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SubscriptionWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\ChannelWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SubscriptionWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\MainWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\ManageFeeds.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\App.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.cache
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.lref
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\MainWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\ManageFeeds.baml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.g.resources
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\SFTD_project.csproj.GenerateResource.Cache
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\System.Windows.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\bin\Debug\System.Net.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\TimeFilterWindow.g.cs
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\SFTD_project\obj\Debug\TimeFilterWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\TimeFilterWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\TimeFilterWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\img\xaml\delete.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\SFTD_project.exe.config
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\System.Windows.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\System.Net.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SFTD_project.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\ChannelWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\img\xaml\delete.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SubscriptionWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\ChannelWindow.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SubscriptionWindow.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\MainWindow.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\ManageFeeds.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\TimeFilterWindow.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\App.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.cache
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.lref
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\MainWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\ManageFeeds.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\TimeFilterWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SFTD_project.g.resources
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SFTD_project.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\SFTD_project.csproj.GenerateResource.Cache
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\MapSimpleWindowOnArticle.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\MapSimpleWindowOnArticle.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\MapSimpleWindowOnArticle.g.cs
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\MapSimpleWindowOnArticle.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\AutoDemoWindow.baml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\SFTD_project\obj\Debug\AutoDemoWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\AutoDemoWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Team13\SFTD_project\obj\Debug\AutoDemoWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\SFTD_project.exe.config
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SFTD_project.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\AutoDemoWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\ChannelWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\img\xaml\delete.baml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SubscriptionWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\AutoDemoWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\ChannelWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\MapSimpleWindowOnArticle.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SubscriptionWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\MainWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\ManageFeeds.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\TimeFilterWindow.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\App.g.cs
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.cache
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SFTD_project_MarkupCompile.lref
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\SFTD_project.exe
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\SFTD_project.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\System.Windows.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\System.Net.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\MapSimpleWindowOnArticle.baml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\MainWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\ManageFeeds.baml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\TimeFilterWindow.baml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SFTD_project.g.resources
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SFTD_project.Properties.Resources.resources
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\SFTD_project\obj\Debug\SFTD_project.csproj.GenerateResource.Cache

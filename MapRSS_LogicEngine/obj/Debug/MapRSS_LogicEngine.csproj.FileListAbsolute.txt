@@ -1,0 +1,46 @@
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.pdb
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.csprojResolveAssemblyReference.cache
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\System.Windows.Browser.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\System.Windows.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\junhao.zhang.freddie\Desktop\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\System.Net.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.pdb
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\bin\Debug\System.Windows.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Stephen\Desktop\CPT_S 323\MapRSS\Team13\MapRSS_LogicEngine\bin\Debug\System.Net.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\junhao.zhang.freddie\gitHub\Team13\MapRSS_LogicEngine\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\junhao.zhang.freddie\Desktop\Team13\MapRSS_LogicEngine\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\bin\Debug\MapRSS_LogicEngine.pdb
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\bin\Debug\System.ServiceModel.Web.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.csprojResolveAssemblyReference.cache
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.dll
+C:\Users\junhao.zhang.freddie\gitHub\Cpts323\MapRSS_LogicEngine\obj\Debug\MapRSS_LogicEngine.pdb
